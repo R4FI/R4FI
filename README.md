@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cse_1812020181@lus.ac.bd**
 
-- 📄 Know about my experiences [RESUME](https://urlis.net/z88hyx04)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/104jAFGbIYpNzT7NXe2FVQAWiGpqadaxr/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
