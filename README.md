@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FoodBuzz..**
 
-- 🌱 I’m currently learning **Typescript,Docker,AWS**
+- 🌱 I’m currently learning **Docker,AWS**
 
 - 💬 Ask me about **MERN Stack developer**
 
